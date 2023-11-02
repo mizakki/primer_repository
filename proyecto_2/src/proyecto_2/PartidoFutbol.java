@@ -6,7 +6,7 @@ public class PartidoFutbol {
 	private int	golesLocal;
 	private int	golesVisitante;
 	
-	
+	//jdksjdkjskjd
 	public String getEquipoLocal() {
 		return equipoLocal;
 	}
